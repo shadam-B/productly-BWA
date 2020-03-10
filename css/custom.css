@@ -1,5 +1,5 @@
 .btn-primary {
-    background: #FF9900;
+    background: #3282b8;
     border: 0;
     padding: 15px 40px 15px 40px;
     font-size: 16px;
@@ -7,7 +7,7 @@
 }
 
 .btn-primary:hover {
-    background: rgb(219, 133, 4);
+    background: #0f4c81;
     border: 0;
 }
 
